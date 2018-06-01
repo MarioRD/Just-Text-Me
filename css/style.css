@@ -1,11 +1,6 @@
 body {
   background: #323641;
 }
-.mailto{
-  display:block;
-  width:300px;
-  height:300px;
-}
 
 .letter-image {
   position: absolute;
